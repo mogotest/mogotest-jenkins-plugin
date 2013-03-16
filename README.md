@@ -17,5 +17,5 @@ Requirements
 Usage
 -----
 
-There is no global configuration for the plugin.  All its configuration is done per-job and is available as a post-build
+There is no global configuration for the plugin.  Its entire configuration is done per-job and is available as a post-build
 action.
