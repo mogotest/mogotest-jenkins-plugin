@@ -12,6 +12,7 @@
   <packaging>hpi</packaging>
   <name>Mogotest Plugin</name>
   <description>A plugin for triggering test runs on the Mogotest service.</description>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/Mogotest+Plugin</url>
 
   <licenses>
     <license>
